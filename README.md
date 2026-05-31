@@ -31,10 +31,7 @@ Backend engineer at **Scenic Weather**, working where **space, sensors, and back
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>Postgres</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux</td>
-  </tr>
-  <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" /><br>Kotlin</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" /><br>Prometheus</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /><br>AWS</td>
   </tr>
 </table>
@@ -44,16 +41,15 @@ Backend engineer at **Scenic Weather**, working where **space, sensors, and back
 
 <p align="center">
   <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?&style=flat&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/DigitalOcean%20-%230080FF.svg?&style=flat&logo=digitalocean&logoColor=white"/>
   <img src="https://img.shields.io/badge/debian%20-%23A81D33.svg?&style=flat&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/prometheus%20-%23E6522C.svg?&style=flat&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bevy%20-%23232326.svg?&style=flat&logo=bevy&logoColor=white"/>
   <img src="https://img.shields.io/badge/riscv%20-%23283272.svg?&style=flat&logo=riscv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Altium%20-%23A5915F.svg?&style=flat&logo=altium-designer&logoColor=white"/>
   <img src="https://img.shields.io/badge/letsencrypt%20-%23003A70.svg?&style=flat&logo=letsencrypt&logoColor=white"/>
   <img src="https://img.shields.io/badge/claude%20-%23D97757.svg?&style=flat&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/svg%20-%23FFB13B.svg?&style=flat&logo=svg&logoColor=white"/>
 </p>
 
 ## 📊 My Stats
