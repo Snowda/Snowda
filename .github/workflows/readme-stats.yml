@@ -14,6 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Use your admin PAT so the commit-back push bypasses branch
+          # protection on main (the github-actions[bot] cannot be granted
+          # a bypass; an admin user can).
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate overall stats card
         uses: stats-organization/github-readme-stats-action@v2
