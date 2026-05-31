@@ -3,15 +3,15 @@
 ## To connect
 
 * [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/conor-forde/)
-* [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=flat&logo=&logoColor=white%22">](https://conorforde.com/)
+* [<img src="https://img.shields.io/badge/portfolio-web-%23.svg?&style=flat&logo=&logoColor=white">](https://conorforde.com/)
 
 ## My Stats
 
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Snowda&show_icons=true&count_private=true&theme=algolia&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Snowda&hide=css,html&count_private=true&theme=algolia">
+  <img src="profile/stats.svg" alt="Snowda's GitHub stats">
+  <img src="profile/top-langs.svg" alt="Snowda's top languages">
 </p>
 
 ## Tech Stack
