@@ -42,7 +42,7 @@ Backend engineer at **Scenic Weather**, working where **space, sensors, and back
 <p align="center">
   <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?&style=flat&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DigitalOcean%20-%230080FF.svg?&style=flat&logo=digitalocean&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20-%232496ED.svg?&style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/debian%20-%23A81D33.svg?&style=flat&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/prometheus%20-%23E6522C.svg?&style=flat&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bevy%20-%23232326.svg?&style=flat&logo=bevy&logoColor=white"/>
