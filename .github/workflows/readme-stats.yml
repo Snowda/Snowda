@@ -13,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           # Use your admin PAT so the commit-back push bypasses branch
           # protection on main (the github-actions[bot] cannot be granted
