@@ -2,7 +2,7 @@
 
 # Hi, I'm Conor Forde 👋
 
-### Backend Engineer @ Scenic Weather
+### Product Builder
 
 **Space • Sensors • Cybersecurity**  ·  Rust • Distributed Appliance Management • Networking
 
