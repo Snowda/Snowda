@@ -4,7 +4,7 @@
 
 ### Backend Engineer @ Scenic Weather
 
-**Space • Sensors • Backend Scaling**  ·  Rust • Embedded • Distributed Systems
+**Space • Sensors • Cybersecurity**  ·  Rust • Distributed Appliance Management • Networking
 
 <p>
   <a href="https://www.linkedin.com/in/conor-forde/"><img src="https://img.shields.io/badge/LinkedIn-Conor_Forde-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,11 +16,11 @@
 
 ## 👋 About Me
 
-Backend engineer at **Scenic Weather**, working where **space, sensors, and backend scaling** meet. What I build:
+What I build:
 
-- 🛰️ **Space & data systems** — processing and merging planetary datasets and scalable weather backends.
-- 🔌 **Embedded & sensor drivers** — low-level device drivers in Rust, from IMUs to flash memory and accelerometers.
-- ⚙️ **Backend infrastructure** — services and tooling in Rust, including reverse proxies and developer tooling.
+- 🛰️ **Space, Cybersecurity & Networking** — Dataset Processing • Reverse Proxies • Network Traffic Analysis
+- ⚙️ **Backend Data Infrastructure** — Distributed Appliances • API Endpoints • Operational Metrics • Fleet Upgrade Management • CI Pipelines
+- 🔌 **Scaling, Efficiency & AI** - Rust • Loop engineering  • GPGPUs • Shaders
 
 ## 🛠️ Tech I Work With
 
