@@ -20,7 +20,7 @@ What I build:
 
 - 🛰️ **Space, Cybersecurity & Networking** — Dataset Processing • Reverse Proxies • Network Traffic Analysis
 - ⚙️ **Backend Data Infrastructure** — Distributed Appliances • API Endpoints • Operational Metrics • Fleet Upgrade Management • CI Pipelines
-- 🔌 **Scaling, Efficiency & AI** - Rust • Loop engineering  • GPGPUs • Shaders
+- 🔌 **Scaling, Efficiency & AI** - Rust • Harness Engineering  • GPGPUs • Shaders
 
 ## 🛠️ Tech I Work With
 
