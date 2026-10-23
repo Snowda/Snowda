@@ -130,11 +130,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Rust</text>
-      <text x="215" y="34" class="lang-name">84.37%</text>
+      <text x="215" y="34" class="lang-name">84.35%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="84.3720494156792%">
+      <svg data-testid="lang-progress" width="84.34815298934181%">
         <rect
             height="8"
             fill="#dea584"
@@ -153,7 +153,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="10.830736776668951%">
+      <svg data-testid="lang-progress" width="10.827669221650957%">
         <rect
             height="8"
             fill="#f34b7d"
@@ -172,7 +172,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="4.3512090230237925%">
+      <svg data-testid="lang-progress" width="4.34997664397626%">
         <rect
             height="8"
             fill="#555555"
@@ -187,7 +187,7 @@
   </g><g transform="translate(0, 120)">
     <g class="stagger" style="animation-delay: 900ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Dockerfile</text>
-      <text x="215" y="34" class="lang-name">0.45%</text>
+      <text x="215" y="34" class="lang-name">0.47%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
